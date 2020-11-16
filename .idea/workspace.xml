@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e9a9c19-d9ff-44b7-99fb-ff2a96aed93a" name="Default Changelist" comment="" />
+    <list default="true" id="0e9a9c19-d9ff-44b7-99fb-ff2a96aed93a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eurekaCli/src/main/java/lee/github/com/controller/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaCli/src/main/java/lee/github/com/controller/HelloRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaCli/src/main/java/lee/github/com/controller/HelloRemoteHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro/src/main/java/lee/github/com/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/src/main/java/lee/github/com/EurekaProApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/src/main/java/lee/github/com/beans/Police.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/src/main/java/lee/github/com/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/src/main/java/lee/github/com/controller/PoliceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/src/main/resouresc/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/src/test/java/lee/github/com/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/classes/lee/github/com/EurekaProApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/classes/lee/github/com/beans/Police.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/classes/lee/github/com/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/classes/lee/github/com/controller/PoliceController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaPro2/target/test-classes/lee/github/com/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaCli/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaCli/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaCli/src/main/java/lee/github/com/EurekaCliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaCli/src/main/java/lee/github/com/EurekaCliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaCli/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaCli/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaCli/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaCli/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaCli/target/classes/lee/github/com/EurekaCliApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaCli/target/classes/lee/github/com/EurekaCliApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaPro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaPro/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaPro/src/main/java/lee/github/com/EurekaProApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaPro/src/main/java/lee/github/com/EurekaProApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaPro/src/main/resouresc/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaPro/src/main/resouresc/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaPro/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaPro/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaPro/target/classes/lee/github/com/EurekaProApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaPro/target/classes/lee/github/com/EurekaProApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/target/classes/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -22,7 +65,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1k7uoAGnDWIYkdzaUzZbrKJFElm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -36,6 +83,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3505747" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaProApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaCliApplication">
     <configuration name="EurekaCliApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eurekaCli" />
       <extension name="coverage">
@@ -110,11 +160,29 @@
       <updated>1605064122363</updated>
       <workItem from="1605064125236" duration="889000" />
       <workItem from="1605065022777" duration="534000" />
-      <workItem from="1605065565050" duration="886000" />
+      <workItem from="1605065565050" duration="1559000" />
+      <workItem from="1605072920362" duration="1181000" />
+      <workItem from="1605512764439" duration="3955000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
